@@ -1,0 +1,476 @@
+count,name,query,total_count,year
+1.0,IDL,IDL,203364.0,1995
+1.0,IDL,IDL,215973.0,1996
+4.0,IDL,IDL,222101.0,1997
+2.0,IDL,IDL,229778.0,1998
+3.0,IDL,IDL,231573.0,1999
+6.0,IDL,IDL,236058.0,2000
+4.0,IDL,IDL,254499.0,2001
+5.0,IDL,IDL,268226.0,2002
+3.0,IDL,IDL,287677.0,2003
+7.0,IDL,IDL,295248.0,2004
+3.0,IDL,IDL,315570.0,2005
+6.0,IDL,IDL,338035.0,2006
+5.0,IDL,IDL,353799.0,2007
+13.0,IDL,IDL,383358.0,2008
+4.0,IDL,IDL,423994.0,2009
+7.0,IDL,IDL,431956.0,2010
+11.0,IDL,IDL,438595.0,2011
+18.0,IDL,IDL,487274.0,2012
+6.0,IDL,IDL,489842.0,2013
+7.0,IDL,IDL,490972.0,2014
+9.0,IDL,IDL,501345.0,2015
+7.0,IDL,IDL,527592.0,2016
+6.0,IDL,IDL,545554.0,2017
+7.0,IDL,IDL,579712.0,2018
+9.733333333333334,IDL,IDL,534061.5111111111,2019
+1.0,Python,Python,203364.0,1995
+1.0,Python,Python,215973.0,1996
+1.0,Python,Python,222101.0,1997
+0.0,Python,Python,229778.0,1998
+3.0,Python,Python,231573.0,1999
+4.0,Python,Python,236058.0,2000
+1.0,Python,Python,254499.0,2001
+0.0,Python,Python,268226.0,2002
+4.0,Python,Python,287677.0,2003
+0.0,Python,Python,295248.0,2004
+2.0,Python,Python,315570.0,2005
+3.0,Python,Python,338035.0,2006
+4.0,Python,Python,353799.0,2007
+3.0,Python,Python,383358.0,2008
+2.0,Python,Python,423994.0,2009
+3.0,Python,Python,431956.0,2010
+4.0,Python,Python,438595.0,2011
+19.0,Python,Python,487274.0,2012
+21.0,Python,Python,489842.0,2013
+25.0,Python,Python,490972.0,2014
+32.0,Python,Python,501345.0,2015
+48.0,Python,Python,527592.0,2016
+69.0,Python,Python,545554.0,2017
+107.0,Python,Python,579712.0,2018
+128.15555555555557,Python,Python,534061.5111111111,2019
+0.0,Matlab,MATLAB,203364.0,1995
+0.0,Matlab,MATLAB,215973.0,1996
+1.0,Matlab,MATLAB,222101.0,1997
+0.0,Matlab,MATLAB,229778.0,1998
+1.0,Matlab,MATLAB,231573.0,1999
+2.0,Matlab,MATLAB,236058.0,2000
+0.0,Matlab,MATLAB,254499.0,2001
+3.0,Matlab,MATLAB,268226.0,2002
+2.0,Matlab,MATLAB,287677.0,2003
+2.0,Matlab,MATLAB,295248.0,2004
+2.0,Matlab,MATLAB,315570.0,2005
+2.0,Matlab,MATLAB,338035.0,2006
+2.0,Matlab,MATLAB,353799.0,2007
+3.0,Matlab,MATLAB,383358.0,2008
+2.0,Matlab,MATLAB,423994.0,2009
+1.0,Matlab,MATLAB,431956.0,2010
+2.0,Matlab,MATLAB,438595.0,2011
+5.0,Matlab,MATLAB,487274.0,2012
+5.0,Matlab,MATLAB,489842.0,2013
+4.0,Matlab,MATLAB,490972.0,2014
+5.0,Matlab,MATLAB,501345.0,2015
+11.0,Matlab,MATLAB,527592.0,2016
+13.0,Matlab,MATLAB,545554.0,2017
+10.0,Matlab,MATLAB,579712.0,2018
+8.11111111111111,Matlab,MATLAB,534061.5111111111,2019
+0.0,Matlab,Matlab,203364.0,1995
+0.0,Matlab,Matlab,215973.0,1996
+1.0,Matlab,Matlab,222101.0,1997
+0.0,Matlab,Matlab,229778.0,1998
+1.0,Matlab,Matlab,231573.0,1999
+3.0,Matlab,Matlab,236058.0,2000
+0.0,Matlab,Matlab,254499.0,2001
+3.0,Matlab,Matlab,268226.0,2002
+8.0,Matlab,Matlab,287677.0,2003
+3.0,Matlab,Matlab,295248.0,2004
+4.0,Matlab,Matlab,315570.0,2005
+4.0,Matlab,Matlab,338035.0,2006
+4.0,Matlab,Matlab,353799.0,2007
+6.0,Matlab,Matlab,383358.0,2008
+4.0,Matlab,Matlab,423994.0,2009
+3.0,Matlab,Matlab,431956.0,2010
+7.0,Matlab,Matlab,438595.0,2011
+8.0,Matlab,Matlab,487274.0,2012
+10.0,Matlab,Matlab,489842.0,2013
+9.0,Matlab,Matlab,490972.0,2014
+7.0,Matlab,Matlab,501345.0,2015
+13.0,Matlab,Matlab,527592.0,2016
+19.0,Matlab,Matlab,545554.0,2017
+13.0,Matlab,Matlab,579712.0,2018
+21.08888888888889,Matlab,Matlab,534061.5111111111,2019
+5.0,Fortran,Fortran,203364.0,1995
+7.0,Fortran,Fortran,215973.0,1996
+6.0,Fortran,Fortran,222101.0,1997
+8.0,Fortran,Fortran,229778.0,1998
+5.0,Fortran,Fortran,231573.0,1999
+4.0,Fortran,Fortran,236058.0,2000
+7.0,Fortran,Fortran,254499.0,2001
+6.0,Fortran,Fortran,268226.0,2002
+12.0,Fortran,Fortran,287677.0,2003
+6.0,Fortran,Fortran,295248.0,2004
+6.0,Fortran,Fortran,315570.0,2005
+6.0,Fortran,Fortran,338035.0,2006
+6.0,Fortran,Fortran,353799.0,2007
+9.0,Fortran,Fortran,383358.0,2008
+9.0,Fortran,Fortran,423994.0,2009
+7.0,Fortran,Fortran,431956.0,2010
+12.0,Fortran,Fortran,438595.0,2011
+7.0,Fortran,Fortran,487274.0,2012
+15.0,Fortran,Fortran,489842.0,2013
+8.0,Fortran,Fortran,490972.0,2014
+14.0,Fortran,Fortran,501345.0,2015
+11.0,Fortran,Fortran,527592.0,2016
+11.0,Fortran,Fortran,545554.0,2017
+8.0,Fortran,Fortran,579712.0,2018
+11.355555555555556,Fortran,Fortran,534061.5111111111,2019
+3.0,Fortran,FORTRAN,203364.0,1995
+7.0,Fortran,FORTRAN,215973.0,1996
+5.0,Fortran,FORTRAN,222101.0,1997
+3.0,Fortran,FORTRAN,229778.0,1998
+1.0,Fortran,FORTRAN,231573.0,1999
+1.0,Fortran,FORTRAN,236058.0,2000
+4.0,Fortran,FORTRAN,254499.0,2001
+4.0,Fortran,FORTRAN,268226.0,2002
+10.0,Fortran,FORTRAN,287677.0,2003
+4.0,Fortran,FORTRAN,295248.0,2004
+3.0,Fortran,FORTRAN,315570.0,2005
+2.0,Fortran,FORTRAN,338035.0,2006
+5.0,Fortran,FORTRAN,353799.0,2007
+0.0,Fortran,FORTRAN,383358.0,2008
+5.0,Fortran,FORTRAN,423994.0,2009
+3.0,Fortran,FORTRAN,431956.0,2010
+5.0,Fortran,FORTRAN,438595.0,2011
+3.0,Fortran,FORTRAN,487274.0,2012
+5.0,Fortran,FORTRAN,489842.0,2013
+3.0,Fortran,FORTRAN,490972.0,2014
+7.0,Fortran,FORTRAN,501345.0,2015
+7.0,Fortran,FORTRAN,527592.0,2016
+4.0,Fortran,FORTRAN,545554.0,2017
+1.0,Fortran,FORTRAN,579712.0,2018
+4.866666666666667,Fortran,FORTRAN,534061.5111111111,2019
+4.0,Java,Java,203364.0,1995
+1.0,Java,Java,215973.0,1996
+5.0,Java,Java,222101.0,1997
+9.0,Java,Java,229778.0,1998
+9.0,Java,Java,231573.0,1999
+16.0,Java,Java,236058.0,2000
+15.0,Java,Java,254499.0,2001
+11.0,Java,Java,268226.0,2002
+11.0,Java,Java,287677.0,2003
+11.0,Java,Java,295248.0,2004
+13.0,Java,Java,315570.0,2005
+23.0,Java,Java,338035.0,2006
+24.0,Java,Java,353799.0,2007
+19.0,Java,Java,383358.0,2008
+15.0,Java,Java,423994.0,2009
+9.0,Java,Java,431956.0,2010
+19.0,Java,Java,438595.0,2011
+10.0,Java,Java,487274.0,2012
+13.0,Java,Java,489842.0,2013
+9.0,Java,Java,490972.0,2014
+11.0,Java,Java,501345.0,2015
+13.0,Java,Java,527592.0,2016
+6.0,Java,Java,545554.0,2017
+8.0,Java,Java,579712.0,2018
+12.977777777777778,Java,Java,534061.5111111111,2019
+0.0,C,C programming language,203364.0,1995
+2.0,C,C programming language,215973.0,1996
+0.0,C,C programming language,222101.0,1997
+0.0,C,C programming language,229778.0,1998
+1.0,C,C programming language,231573.0,1999
+1.0,C,C programming language,236058.0,2000
+2.0,C,C programming language,254499.0,2001
+0.0,C,C programming language,268226.0,2002
+1.0,C,C programming language,287677.0,2003
+2.0,C,C programming language,295248.0,2004
+4.0,C,C programming language,315570.0,2005
+2.0,C,C programming language,338035.0,2006
+0.0,C,C programming language,353799.0,2007
+6.0,C,C programming language,383358.0,2008
+2.0,C,C programming language,423994.0,2009
+4.0,C,C programming language,431956.0,2010
+2.0,C,C programming language,438595.0,2011
+0.0,C,C programming language,487274.0,2012
+5.0,C,C programming language,489842.0,2013
+3.0,C,C programming language,490972.0,2014
+3.0,C,C programming language,501345.0,2015
+2.0,C,C programming language,527592.0,2016
+1.0,C,C programming language,545554.0,2017
+6.0,C,C programming language,579712.0,2018
+1.6222222222222222,C,C programming language,534061.5111111111,2019
+1.0,C,C language,203364.0,1995
+3.0,C,C language,215973.0,1996
+1.0,C,C language,222101.0,1997
+1.0,C,C language,229778.0,1998
+1.0,C,C language,231573.0,1999
+2.0,C,C language,236058.0,2000
+3.0,C,C language,254499.0,2001
+1.0,C,C language,268226.0,2002
+1.0,C,C language,287677.0,2003
+3.0,C,C language,295248.0,2004
+6.0,C,C language,315570.0,2005
+4.0,C,C language,338035.0,2006
+2.0,C,C language,353799.0,2007
+7.0,C,C language,383358.0,2008
+3.0,C,C language,423994.0,2009
+6.0,C,C language,431956.0,2010
+8.0,C,C language,438595.0,2011
+1.0,C,C language,487274.0,2012
+7.0,C,C language,489842.0,2013
+3.0,C,C language,490972.0,2014
+4.0,C,C language,501345.0,2015
+6.0,C,C language,527592.0,2016
+8.0,C,C language,545554.0,2017
+9.0,C,C language,579712.0,2018
+1.6222222222222222,C,C language,534061.5111111111,2019
+41.0,C,C code,203364.0,1995
+36.0,C,C code,215973.0,1996
+42.0,C,C code,222101.0,1997
+45.0,C,C code,229778.0,1998
+43.0,C,C code,231573.0,1999
+44.0,C,C code,236058.0,2000
+36.0,C,C code,254499.0,2001
+41.0,C,C code,268226.0,2002
+39.0,C,C code,287677.0,2003
+65.0,C,C code,295248.0,2004
+62.0,C,C code,315570.0,2005
+70.0,C,C code,338035.0,2006
+58.0,C,C code,353799.0,2007
+83.0,C,C code,383358.0,2008
+69.0,C,C code,423994.0,2009
+82.0,C,C code,431956.0,2010
+94.0,C,C code,438595.0,2011
+98.0,C,C code,487274.0,2012
+115.0,C,C code,489842.0,2013
+115.0,C,C code,490972.0,2014
+97.0,C,C code,501345.0,2015
+111.0,C,C code,527592.0,2016
+115.0,C,C code,545554.0,2017
+124.0,C,C code,579712.0,2018
+146.0,C,C code,534061.5111111111,2019
+5.0,C,C library,203364.0,1995
+0.0,C,C library,215973.0,1996
+6.0,C,C library,222101.0,1997
+0.0,C,C library,229778.0,1998
+1.0,C,C library,231573.0,1999
+7.0,C,C library,236058.0,2000
+3.0,C,C library,254499.0,2001
+5.0,C,C library,268226.0,2002
+4.0,C,C library,287677.0,2003
+6.0,C,C library,295248.0,2004
+5.0,C,C library,315570.0,2005
+11.0,C,C library,338035.0,2006
+4.0,C,C library,353799.0,2007
+9.0,C,C library,383358.0,2008
+10.0,C,C library,423994.0,2009
+10.0,C,C library,431956.0,2010
+8.0,C,C library,438595.0,2011
+6.0,C,C library,487274.0,2012
+10.0,C,C library,489842.0,2013
+8.0,C,C library,490972.0,2014
+13.0,C,C library,501345.0,2015
+11.0,C,C library,527592.0,2016
+10.0,C,C library,545554.0,2017
+13.0,C,C library,579712.0,2018
+14.6,C,C library,534061.5111111111,2019
+15.0,C,C module,203364.0,1995
+16.0,C,C module,215973.0,1996
+19.0,C,C module,222101.0,1997
+16.0,C,C module,229778.0,1998
+14.0,C,C module,231573.0,1999
+11.0,C,C module,236058.0,2000
+13.0,C,C module,254499.0,2001
+11.0,C,C module,268226.0,2002
+18.0,C,C module,287677.0,2003
+17.0,C,C module,295248.0,2004
+23.0,C,C module,315570.0,2005
+16.0,C,C module,338035.0,2006
+18.0,C,C module,353799.0,2007
+20.0,C,C module,383358.0,2008
+24.0,C,C module,423994.0,2009
+17.0,C,C module,431956.0,2010
+18.0,C,C module,438595.0,2011
+18.0,C,C module,487274.0,2012
+20.0,C,C module,489842.0,2013
+17.0,C,C module,490972.0,2014
+23.0,C,C module,501345.0,2015
+28.0,C,C module,527592.0,2016
+25.0,C,C module,545554.0,2017
+28.0,C,C module,579712.0,2018
+21.08888888888889,C,C module,534061.5111111111,2019
+0.0,R,R programming language,203364.0,1995
+0.0,R,R programming language,215973.0,1996
+0.0,R,R programming language,222101.0,1997
+0.0,R,R programming language,229778.0,1998
+1.0,R,R programming language,231573.0,1999
+0.0,R,R programming language,236058.0,2000
+0.0,R,R programming language,254499.0,2001
+0.0,R,R programming language,268226.0,2002
+0.0,R,R programming language,287677.0,2003
+1.0,R,R programming language,295248.0,2004
+1.0,R,R programming language,315570.0,2005
+0.0,R,R programming language,338035.0,2006
+1.0,R,R programming language,353799.0,2007
+0.0,R,R programming language,383358.0,2008
+1.0,R,R programming language,423994.0,2009
+0.0,R,R programming language,431956.0,2010
+1.0,R,R programming language,438595.0,2011
+0.0,R,R programming language,487274.0,2012
+0.0,R,R programming language,489842.0,2013
+1.0,R,R programming language,490972.0,2014
+0.0,R,R programming language,501345.0,2015
+1.0,R,R programming language,527592.0,2016
+0.0,R,R programming language,545554.0,2017
+1.0,R,R programming language,579712.0,2018
+1.6222222222222222,R,R programming language,534061.5111111111,2019
+0.0,R,R language,203364.0,1995
+0.0,R,R language,215973.0,1996
+0.0,R,R language,222101.0,1997
+1.0,R,R language,229778.0,1998
+1.0,R,R language,231573.0,1999
+0.0,R,R language,236058.0,2000
+1.0,R,R language,254499.0,2001
+1.0,R,R language,268226.0,2002
+0.0,R,R language,287677.0,2003
+4.0,R,R language,295248.0,2004
+2.0,R,R language,315570.0,2005
+2.0,R,R language,338035.0,2006
+1.0,R,R language,353799.0,2007
+1.0,R,R language,383358.0,2008
+2.0,R,R language,423994.0,2009
+0.0,R,R language,431956.0,2010
+4.0,R,R language,438595.0,2011
+2.0,R,R language,487274.0,2012
+1.0,R,R language,489842.0,2013
+2.0,R,R language,490972.0,2014
+2.0,R,R language,501345.0,2015
+5.0,R,R language,527592.0,2016
+3.0,R,R language,545554.0,2017
+1.0,R,R language,579712.0,2018
+3.2444444444444445,R,R language,534061.5111111111,2019
+36.0,R,R code,203364.0,1995
+28.0,R,R code,215973.0,1996
+26.0,R,R code,222101.0,1997
+36.0,R,R code,229778.0,1998
+33.0,R,R code,231573.0,1999
+30.0,R,R code,236058.0,2000
+24.0,R,R code,254499.0,2001
+29.0,R,R code,268226.0,2002
+43.0,R,R code,287677.0,2003
+56.0,R,R code,295248.0,2004
+43.0,R,R code,315570.0,2005
+42.0,R,R code,338035.0,2006
+62.0,R,R code,353799.0,2007
+54.0,R,R code,383358.0,2008
+50.0,R,R code,423994.0,2009
+66.0,R,R code,431956.0,2010
+72.0,R,R code,438595.0,2011
+71.0,R,R code,487274.0,2012
+64.0,R,R code,489842.0,2013
+87.0,R,R code,490972.0,2014
+79.0,R,R code,501345.0,2015
+86.0,R,R code,527592.0,2016
+98.0,R,R code,545554.0,2017
+100.0,R,R code,579712.0,2018
+97.33333333333333,R,R code,534061.5111111111,2019
+7.0,R,R library,203364.0,1995
+3.0,R,R library,215973.0,1996
+4.0,R,R library,222101.0,1997
+1.0,R,R library,229778.0,1998
+1.0,R,R library,231573.0,1999
+2.0,R,R library,236058.0,2000
+4.0,R,R library,254499.0,2001
+1.0,R,R library,268226.0,2002
+4.0,R,R library,287677.0,2003
+7.0,R,R library,295248.0,2004
+11.0,R,R library,315570.0,2005
+10.0,R,R library,338035.0,2006
+4.0,R,R library,353799.0,2007
+5.0,R,R library,383358.0,2008
+11.0,R,R library,423994.0,2009
+10.0,R,R library,431956.0,2010
+12.0,R,R library,438595.0,2011
+5.0,R,R library,487274.0,2012
+10.0,R,R library,489842.0,2013
+12.0,R,R library,490972.0,2014
+9.0,R,R library,501345.0,2015
+7.0,R,R library,527592.0,2016
+7.0,R,R library,545554.0,2017
+6.0,R,R library,579712.0,2018
+9.733333333333334,R,R library,534061.5111111111,2019
+17.0,R,R module,203364.0,1995
+18.0,R,R module,215973.0,1996
+15.0,R,R module,222101.0,1997
+12.0,R,R module,229778.0,1998
+11.0,R,R module,231573.0,1999
+14.0,R,R module,236058.0,2000
+14.0,R,R module,254499.0,2001
+18.0,R,R module,268226.0,2002
+9.0,R,R module,287677.0,2003
+21.0,R,R module,295248.0,2004
+13.0,R,R module,315570.0,2005
+18.0,R,R module,338035.0,2006
+19.0,R,R module,353799.0,2007
+15.0,R,R module,383358.0,2008
+16.0,R,R module,423994.0,2009
+17.0,R,R module,431956.0,2010
+17.0,R,R module,438595.0,2011
+23.0,R,R module,487274.0,2012
+29.0,R,R module,489842.0,2013
+17.0,R,R module,490972.0,2014
+34.0,R,R module,501345.0,2015
+34.0,R,R module,527592.0,2016
+31.0,R,R module,545554.0,2017
+14.0,R,R module,579712.0,2018
+21.08888888888889,R,R module,534061.5111111111,2019
+3.0,Mathematica,Mathematica,203364.0,1995
+0.0,Mathematica,Mathematica,215973.0,1996
+1.0,Mathematica,Mathematica,222101.0,1997
+2.0,Mathematica,Mathematica,229778.0,1998
+1.0,Mathematica,Mathematica,231573.0,1999
+2.0,Mathematica,Mathematica,236058.0,2000
+0.0,Mathematica,Mathematica,254499.0,2001
+3.0,Mathematica,Mathematica,268226.0,2002
+1.0,Mathematica,Mathematica,287677.0,2003
+1.0,Mathematica,Mathematica,295248.0,2004
+3.0,Mathematica,Mathematica,315570.0,2005
+1.0,Mathematica,Mathematica,338035.0,2006
+1.0,Mathematica,Mathematica,353799.0,2007
+2.0,Mathematica,Mathematica,383358.0,2008
+2.0,Mathematica,Mathematica,423994.0,2009
+3.0,Mathematica,Mathematica,431956.0,2010
+4.0,Mathematica,Mathematica,438595.0,2011
+1.0,Mathematica,Mathematica,487274.0,2012
+9.0,Mathematica,Mathematica,489842.0,2013
+10.0,Mathematica,Mathematica,490972.0,2014
+11.0,Mathematica,Mathematica,501345.0,2015
+3.0,Mathematica,Mathematica,527592.0,2016
+10.0,Mathematica,Mathematica,545554.0,2017
+5.0,Mathematica,Mathematica,579712.0,2018
+4.866666666666667,Mathematica,Mathematica,534061.5111111111,2019
+2.0,Julia,Julia,203364.0,1995
+1.0,Julia,Julia,215973.0,1996
+2.0,Julia,Julia,222101.0,1997
+4.0,Julia,Julia,229778.0,1998
+1.0,Julia,Julia,231573.0,1999
+3.0,Julia,Julia,236058.0,2000
+2.0,Julia,Julia,254499.0,2001
+1.0,Julia,Julia,268226.0,2002
+4.0,Julia,Julia,287677.0,2003
+5.0,Julia,Julia,295248.0,2004
+3.0,Julia,Julia,315570.0,2005
+2.0,Julia,Julia,338035.0,2006
+4.0,Julia,Julia,353799.0,2007
+4.0,Julia,Julia,383358.0,2008
+2.0,Julia,Julia,423994.0,2009
+3.0,Julia,Julia,431956.0,2010
+2.0,Julia,Julia,438595.0,2011
+3.0,Julia,Julia,487274.0,2012
+3.0,Julia,Julia,489842.0,2013
+6.0,Julia,Julia,490972.0,2014
+3.0,Julia,Julia,501345.0,2015
+4.0,Julia,Julia,527592.0,2016
+2.0,Julia,Julia,545554.0,2017
+8.0,Julia,Julia,579712.0,2018
+4.866666666666667,Julia,Julia,534061.5111111111,2019
